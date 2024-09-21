@@ -1,4 +1,4 @@
-# 💻 Raja Anseem
+# 💻 h3x0r
 
 **System Support Executive at IT Regional Office Central, KLP Lahore**
 
@@ -45,12 +45,6 @@ Welcome to my GitHub profile! I'm a dedicated IT professional with over 3 years 
 - **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 - **Twitter:** [twitter.com/your-profile](https://twitter.com/your-profile)
 - **Blog:** [h3x0r.tech](https://h3x0r.tech)
-
----
-
-### 🛍️ Side Hustle
-
-I run a headphone reselling business called **Airphonix**. Check out our [Facebook page](https://www.facebook.com/Airphonix) and [Instagram](https://www.instagram.com/Airphonix) for the latest deals and updates!
 
 ---
 
