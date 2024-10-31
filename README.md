@@ -1,6 +1,6 @@
 # 💻 h3x0r
 
-**System Support Executive at IT Regional Office Central, KLP Lahore**
+**System Support Executive IT**
 
 Welcome to my GitHub profile! I'm a dedicated IT professional with over 3 years of experience in networks, operating systems, server management, and automating tasks with scripting. 
 
