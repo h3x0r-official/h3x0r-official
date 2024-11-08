@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a dedicated IT professional with over 3 years 
 
 ### 🌐 Projects & Contributions
 
-- **[Site](https://h3x0r.hashnode.dev/)):** A blogsite with technical documentation and step-by-step guides on topics like Linux, Pi-hole, RustDesk server on Docker, networking labs, server configuration, cybersecurity, and DevOps practices.
+- **[Site](https://h3x0r.hashnode.dev/):** A blogsite with technical documentation and step-by-step guides on topics like Linux, Pi-hole, RustDesk server on Docker, networking labs, server configuration, cybersecurity, and DevOps practices.
 - **Automation Tools:** Created multiple PowerShell scripts to automate OS configurations and various administrative tasks.
 
 ---
@@ -43,8 +43,8 @@ Welcome to my GitHub profile! I'm a dedicated IT professional with over 3 years 
 
 ### 📫 Connect with Me
 
-- **Twitter:** [twitter](https://twitter.com/_h3x0r)
-- **Blog:** [h3x0r](https://h3x0r.hashnode.dev/)
+- **Twitter:** [Profile](https://twitter.com/_h3x0r)
+- **Blog:** [Website](https://h3x0r.hashnode.dev/)
 
 ---
 
