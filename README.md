@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a dedicated IT professional with over 3 years 
 ![Raja Anseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3x0r-official&show_icons=true&theme=radical)
 
 ### Try Hack Me
-![<img src="https://tryhackme-badges.s3.amazonaws.com/h3Xor.png" alt="Your Image Badge" />]
+<img src="https://tryhackme-badges.s3.amazonaws.com/h3Xor.png" alt="Your Image Badge" />
 
 ---
 
