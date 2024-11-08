@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm a dedicated IT professional with over 3 years 
 
 - Advanced network security topics for an upcoming role.
 - Information security certification from freeCodeCamp.org.
+- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1033290" style='border:none;'></iframe>
 
 ---
 
