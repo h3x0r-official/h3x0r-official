@@ -2,7 +2,7 @@
 
 **System Support Executive IT**
 
-Welcome to my GitHub profile! I'm a dedicated IT professional with over 3 years of experience in networks, operating systems, server management, and automating tasks with scripting. 
+Welcome to my GitHub profile! I'm a dedicated IT professional with over 5 years of experience in networks, operating systems, server management, and automating tasks with scripting. 
 
 ---
 
