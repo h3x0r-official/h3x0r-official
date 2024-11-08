@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a dedicated IT professional with over 3 years 
 
 - Advanced network security topics for an upcoming role.
 - Information security certification from freeCodeCamp.org.
-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1033290" style='border:none;'></iframe>
+
 
 ---
 
@@ -49,9 +49,13 @@ Welcome to my GitHub profile! I'm a dedicated IT professional with over 3 years 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-![Raja Anseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+### Github
+![Raja Anseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3x0r-official&show_icons=true&theme=radical)
+
+### Try Hack Me
+![<img src="https://tryhackme-badges.s3.amazonaws.com/h3Xor.png" alt="Your Image Badge" />]
 
 ---
 
