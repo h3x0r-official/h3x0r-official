@@ -1,6 +1,6 @@
 # 💻 h3x0r
 
-**System Support Executive IT**
+**Assistant Manager IT**
 
 Welcome to my GitHub profile! I'm a dedicated IT professional with over 5 years of experience in networks, operating systems, server management, and automating tasks with scripting. 
 
